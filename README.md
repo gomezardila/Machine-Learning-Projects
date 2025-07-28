@@ -6,7 +6,6 @@ Este repositorio contiene una colección de proyectos prácticos de Machine Lear
 
 - python/: Proyectos desarrollados en Python (scikit-learn, pandas, xgboost, etc.)
 - r/: Proyectos desarrollados en R (caret, glmnet, randomForest, etc.)
-- datasets/: Datos utilizados en los proyectos (o enlaces a fuentes públicas)
 
 ## Licencia
 
